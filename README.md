@@ -32,4 +32,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Tech-Badhead](https://www.frontendmentor.io/profile/Tech-Badhead)
-- Twitter - [@AkeemUsman10482](https://www.twitter.com/yourusername)
+- Twitter - [@AkeemUsman10482](https://x.com/AkeemUsman10482)
