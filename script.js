@@ -5,7 +5,7 @@ const sharePopup =
     'share-popup'
   );
 
-document.addEventListener(
+shareIcon.addEventListener(
   'click',
   () => {
     if (
